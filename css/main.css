@@ -145,6 +145,14 @@ img {
 	width: 30%;
 }
 
+/* ONE MORE PAGE */
+.change {
+	color: black;
+	background-color: white;
+	padding: 3px;
+	font-weight: 900;
+}
+
 /* FOOTER SECTION */
 
 footer {
