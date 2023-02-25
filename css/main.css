@@ -1,0 +1,92 @@
+* {
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #d87093;
+	color: #000054;
+}
+
+nav {
+	width: 100vw;
+	padding: 5px;
+	text-align: center;
+}
+
+nav ul li{
+	display: inline;
+}
+
+li:not(:first-child)::before {
+	content: " | ";
+}
+
+nav a {
+	text-decoration: none;
+	color: #000054;
+	transition: all 0.2s ease-in-out;
+}
+
+a.active {
+	background-color: #000054;
+	color: #d87093;
+	border-radius: 3px;
+	padding: 3px 5px;
+	color: white;
+}
+
+li a:hover {
+	font-weight: 900;
+}
+
+h1 {
+	text-align: center;
+	background-color: yellowgreen;
+	padding: 5px;
+	border-radius: 3px;
+}
+
+h2 {
+	display: inline-block;
+	background-color: whitesmoke;
+	color: black;
+	padding: 3px;
+	border-radius: 3px;
+}
+
+/* CONTACT US PAGE  */
+p a {
+	background-color: green;
+	color: white;
+	text-decoration: none;
+	padding: 3px;
+	border-radius: 2px;
+}
+
+/* PRODUCTS PAGE */
+h2 a {
+	text-decoration: none;
+	color: #000054;
+}
+
+h2 a:hover {
+	color: red;
+	display: block;
+	text-align: center;
+}
+
+/* SINGLE + MULTIPLE PRODUCTS PAGE */
+h3 {
+	background-color: black;
+	color: white;
+	padding: 3px;
+	display: inline-block;
+	text-align: center;
+	border-radius: 2px;
+}
+
+h3 a {
+	text-decoration: none;
+	color: red;
+}
