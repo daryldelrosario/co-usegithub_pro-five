@@ -6,7 +6,10 @@
 body {
 	background-color: #d87093;
 	color: #000054;
+	overflow-x: hidden;
 }
+
+/* Home Page */
 
 nav {
 	width: 100vw;
@@ -53,6 +56,32 @@ h2 {
 	color: black;
 	padding: 3px;
 	border-radius: 3px;
+}
+
+.counter {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: rgba(255, 255, 255, 0.11);
+	width: 88%;
+	margin: 0 auto;
+	border-radius: 3px;
+}
+
+.counter__content {
+	display: flex;
+	flex-direction: column;
+}
+
+.counter__content p {
+	text-align: center;
+}
+
+#timer {
+	margin: 0;
+	text-align: center;
+	font-size: 1.43rem;
+	padding-bottom: 1.23rem;
 }
 
 /* CONTACT US PAGE  */
@@ -102,4 +131,29 @@ h3 a {
 h3 a:hover {
 	color: white;
 	text-shadow: 0 0 11px rgb(255 0 0);
+}
+
+.image {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+}
+
+img {
+	border-radius: 7px;
+	width: 30%;
+}
+
+/* FOOTER SECTION */
+
+footer {
+	width: 100%;
+	text-align: center;
+	font-size: 1.43rem;
+	margin: 1.11rem 0;
+	background-color: orangered;
+	color: white;
+	font-weight: 900;
+	padding: 1rem;
 }
