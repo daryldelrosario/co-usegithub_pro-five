@@ -4,9 +4,15 @@
 }
 
 body {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
 	background-color: #d87093;
 	color: #000054;
 	overflow-x: hidden;
+	height: 100vh;
+	width: 100vw;
 }
 
 /* Home Page */
@@ -164,4 +170,6 @@ footer {
 	color: white;
 	font-weight: 900;
 	padding: 1rem;
+	position: sticky;
+	bottom: 0;
 }
