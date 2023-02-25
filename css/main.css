@@ -1,3 +1,4 @@
+/* UNIVERSAL SELECTORS */
 * {
 	padding: 0;
 	margin: 0;
@@ -20,7 +21,6 @@ body {
 }
 
 /* Home Page */
-
 nav {
 	width: 100vw;
 	padding: 5px;
@@ -58,6 +58,7 @@ h1 {
 	background-color: yellowgreen;
 	padding: 5px;
 	border-radius: 3px;
+	width: 97vw;
 }
 
 h2 {
@@ -73,7 +74,7 @@ h2 {
 	justify-content: center;
 	align-items: center;
 	background-color: rgba(255, 255, 255, 0.11);
-	width: 88%;
+	width: 55%;
 	margin: 0 auto;
 	border-radius: 3px;
 }
