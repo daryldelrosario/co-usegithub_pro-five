@@ -65,6 +65,14 @@ p a {
 }
 
 /* PRODUCTS PAGE */
+h2 {
+	box-shadow: 0 0 11px rgb(0 0 0);
+}
+
+h2:hover {
+	box-shadow: 0 0 11px rgb(255 0 0);
+}
+
 h2 a {
 	text-decoration: none;
 	color: #000054;
@@ -89,4 +97,9 @@ h3 {
 h3 a {
 	text-decoration: none;
 	color: red;
+}
+
+h3 a:hover {
+	color: white;
+	text-shadow: 0 0 11px rgb(255 0 0);
 }
