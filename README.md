@@ -23,8 +23,8 @@ First introduction to git and github via instructions from CO.
     </details>
 
 - [x] one css and one optional javascript file
-    - main.css
-    - main.js
+    - <a href="https://github.com/daryldelrosario/co-usegithub_pro-five/blob/main/css/main.css">main.css</a>
+    - <a href="https://github.com/daryldelrosario/co-usegithub_pro-five/blob/main/js/main.js">main.js</a>
 
 - [x] At least two images on any page of your choice
     - <a href="https://daryldelrosario.github.io/co-usegithub_pro-five/one-more.html">Image One</a>
