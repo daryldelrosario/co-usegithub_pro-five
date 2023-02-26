@@ -5,7 +5,7 @@ First introduction to git and github via instructions from CO.
 
 <kbd><a href="https://daryldelrosario.github.io/co-usegithub_pro-five/"><img src="./media/co_pro-five_ld.gif" alt="live demo gif"></a></kbd>
 
-## Requirements
+### Requirements
 <details>
     <summary>&#10004; Personal website with correct file structure on local machine</summary>
 
