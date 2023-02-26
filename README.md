@@ -10,7 +10,7 @@ First introduction to git and github via instructions from CO.
     - title tag
     - meta description
 - JavaScript component that calculates how long it's been since I started to learn how to code. 
-    -Found on the <a href="https://daryldelrosario.github.io/co-usegithub_pro-five/index.html"><code>Home Page</code></a>
+    - Found on the <a href="https://daryldelrosario.github.io/co-usegithub_pro-five/index.html"><code>Home Page</code></a>
     - Started August 1st, 2021
 
 ### Requirements
