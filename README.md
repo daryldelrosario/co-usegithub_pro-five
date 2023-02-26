@@ -30,17 +30,24 @@ First introduction to git and github via instructions from CO.
 <details>
     <summary>&#10004; Upload and host website to GitHub</summary>
 
-- <a href="https://daryldelrosario.github.io/co-usegithub_pro-five/">https://daryldelrosario.github.io/co-usegithub_pro-five/</a>
+- <a href="https://daryldelrosario.github.io/co-usegithub_pro-five/">Live Demo deployed via Github</a>
 </details>
 
 <details>
     <summary>&#10004; Add one more additional page</summary>
+
+- one-more.html
 </details>
 
 <details>
     <summary>&#10004; Change color and bold a sentence using pull and merge commands</summary>
+
+- First paragraph underneath H1 tag "This is One More Page"
+- <a href="https://github.com/daryldelrosario/co-usegithub_pro-five/pull/1">Merged and Pulled via GitHub</a>
 </details>
 
 <details>
     <summary>&#10004; Invite Collaborators through their GitHub username</summary>
+
+- Invited TA @uzairdanish
 </details>
