@@ -17,8 +17,30 @@ First introduction to git and github via instructions from CO.
     - products.html
     <details>
     <summary>EXTENDED</summary>
-    
+
     - single-products.html
     - multiple-products.html
     </details>
+
+- [x] one css and one optional javascript file
+    - main.css
+    - main.js
+</details>
+
+<details>
+    <summary>&#10004; Upload and host website to GitHub</summary>
+
+- <a href="https://daryldelrosario.github.io/co-usegithub_pro-five/">https://daryldelrosario.github.io/co-usegithub_pro-five/</a>
+</details>
+
+<details>
+    <summary>&#10004; Add one more additional page</summary>
+</details>
+
+<details>
+    <summary>&#10004; Change color and bold a sentence using pull and merge commands</summary>
+</details>
+
+<details>
+    <summary>&#10004; Invite Collaborators through their GitHub username</summary>
 </details>
