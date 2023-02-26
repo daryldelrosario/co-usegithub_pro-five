@@ -49,5 +49,5 @@ First introduction to git and github via instructions from CO.
 <details>
     <summary>&#10004; Invite Collaborators through their GitHub username</summary>
 
-- Invited TA @uzairdanish
+- Invited TA <a href="https://github.com/uzairdanish">@uzairdanish</a>
 </details>
