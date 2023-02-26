@@ -5,6 +5,13 @@ First introduction to git and github via instructions from CO.
 
 <kbd><a href="https://daryldelrosario.github.io/co-usegithub_pro-five/"><img src="./media/co_pro-five_ld.gif" alt="live demo gif"></a></kbd>
 
+## Features
+- SEO components in the <code>&lt;head&gt;&lt;head/&gt;<code>
+    - title tag
+    - meta description
+- JavaScript component that counts the time that has passed since I first started learning how to code
+    - Started August 1st, 2021
+
 ### Requirements
 <details>
     <summary>&#10004; Personal website with correct file structure on local machine</summary>
